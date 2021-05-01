@@ -15,6 +15,6 @@ Beginnings of a game made on the Apple II in Feb 1988. The game runs in ProDOS a
 </figure>
 
 <figure>
-<img src='./screen-capture/sfa-all-screens-montage'/>
+<img src='./screen-capture/sfa-all-screens-montage.tiff'/>
 <figCaption>This montage shows the layout of the screens in a 10 x 10 grid. Some backgrounds repeated (such as open water).</figCaption>
 </figure>
