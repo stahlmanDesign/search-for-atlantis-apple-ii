@@ -3,9 +3,10 @@ Beginnings of a game made on the Apple II in Feb 1988. The game runs in ProDOS a
 
 <figure>
 
-![video](./screen-capture/sfa.mp4)
+<img src="./screen-capture/sfa.mp4" autostart="true" width="568" height="392" style="background:lightgray" type="video/mp4" alt="video"/>
 
-<video><source src="./screen-capture/sfa.mp4" autostart="false" width="568" height="392" style="background:lightgray" type="video/mp4"></video>
+<img src="./screen-capture/sfa-animated.gif" width="568" height="392" style="background:lightgray" alt="animated gif"/>
+
 <figCaption>Video capture navigating the background files 1-11 using the macOS emulator, Virtual ][. Backgrounds 12-27 did not fit on the disk with the main program, and are only viewable using a "viewer" utility program.</figCaption>
 </figure>
 
