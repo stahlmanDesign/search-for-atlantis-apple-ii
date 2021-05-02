@@ -2,6 +2,7 @@
 Beginnings of a game made on the Apple II in Feb 1988. The game runs in ProDOS and attempts to load the Beagle Compiler (not included) into memory.
 
 <figure>
+![video](./screen-capture/sfa.mp4)
 <video><source src="./screen-capture/sfa.mp4" autostart="false" width="568" height="392" style="background:lightgray" type="video/mp4"></video>
 <figCaption>Video capture navigating the background files 1-11 using the macOS emulator, Virtual ][. Backgrounds 12-27 did not fit on the disk with the main program, and are only viewable using a "viewer" utility program.</figCaption>
 </figure>
