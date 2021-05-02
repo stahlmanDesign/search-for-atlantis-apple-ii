@@ -3,7 +3,7 @@ Beginnings of a game made on the Apple II in Feb 1988. The game runs in ProDOS a
 
 <figure>
 
-<img src="./screen-capture/sfa-short-video.mp4" autostart="true" width="568" height="392" style="background:lightgray" type="video/mp4" alt="sfa-short-video mp4"/>
+<img src="./screen-capture/sfa-short-video.mp4" autostart="true"  style="background:lightgray" type="video/mp4" alt="sfa-short-video mp4"/>
 
 <img src="./screen-capture/sfa-short-video.gif" width="568" height="392" style="background:lightgray" alt="sfa-short-video as animated gif"/>
 
